@@ -3,7 +3,7 @@ source https://www.myget.org/F/azure-appservice/api/v2
 
 nuget FAKE
 nuget WindowsAzure.Storage = 8.6
-nuget Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator = 1.0.0-beta6
+nuget Microsoft.Azure.WebJobs.Script.ExtensionsMetadataGenerator = 1.0.0-beta7
 nuget Microsoft.Azure.WebJobs = 3.0.0-beta7-11414
 nuget Microsoft.Azure.WebJobs.Extensions = 3.0.0-beta7-10650
 nuget Microsoft.Azure.WebJobs.Extensions.Http = 3.0.0-beta7-10650
